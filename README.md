@@ -26,6 +26,7 @@ Installation:
 Usage:
 -Access the application locally at `http://localhost:3000`.
 
+
 Future Enhancements:
 -Adding payment gateway integration.
 -Implementing advanced search filters and user reviews.
