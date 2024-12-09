@@ -23,7 +23,7 @@ Installation:
 4.Start the Application:
   npm start
 
-Usage:
+Usage:-
 -Access the application locally at `http://localhost:3000`.
 
 
